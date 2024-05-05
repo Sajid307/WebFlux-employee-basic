@@ -1,0 +1,6 @@
+com\learn\webFluxBasic\controller\EmployeeController.class
+com\learn\webFluxBasic\repository\EmployeeRepository.class
+com\learn\webFluxBasic\WebFluxBasicApplication.class
+com\learn\webFluxBasic\entity\Employee.class
+com\learn\webFluxBasic\service\IEmployeeService.class
+com\learn\webFluxBasic\service\EmployeeService.class
